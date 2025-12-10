@@ -1,0 +1,30 @@
+C:\Users\Администратор\Desktop\Client\Client\bin\Debug\net6.0\Client.exe
+C:\Users\Администратор\Desktop\Client\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\Администратор\Desktop\Client\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\Администратор\Desktop\Client\Client\bin\Debug\net6.0\Client.dll
+C:\Users\Администратор\Desktop\Client\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\Администратор\Desktop\Client\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Client\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Client\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Client\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Client\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Client\Client\obj\Debug\net6.0\Client.dll
+C:\Users\Администратор\Desktop\Client\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\Администратор\Desktop\Client\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\Администратор\Desktop\Client\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Client\Client\obj\Debug\net6.0\ref\Client.dll
+D:\Рабочий стол 14.05\06.07\Client\Client\bin\Debug\net6.0\Client.exe
+D:\Рабочий стол 14.05\06.07\Client\Client\bin\Debug\net6.0\Client.deps.json
+D:\Рабочий стол 14.05\06.07\Client\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+D:\Рабочий стол 14.05\06.07\Client\Client\bin\Debug\net6.0\Client.dll
+D:\Рабочий стол 14.05\06.07\Client\Client\bin\Debug\net6.0\Client.pdb
+D:\Рабочий стол 14.05\06.07\Client\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+D:\Рабочий стол 14.05\06.07\Client\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол 14.05\06.07\Client\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+D:\Рабочий стол 14.05\06.07\Client\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+D:\Рабочий стол 14.05\06.07\Client\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+D:\Рабочий стол 14.05\06.07\Client\Client\obj\Debug\net6.0\Client.dll
+D:\Рабочий стол 14.05\06.07\Client\Client\obj\Debug\net6.0\refint\Client.dll
+D:\Рабочий стол 14.05\06.07\Client\Client\obj\Debug\net6.0\Client.pdb
+D:\Рабочий стол 14.05\06.07\Client\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+D:\Рабочий стол 14.05\06.07\Client\Client\obj\Debug\net6.0\ref\Client.dll

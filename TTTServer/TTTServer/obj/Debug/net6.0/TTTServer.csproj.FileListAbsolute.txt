@@ -1,0 +1,32 @@
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\bin\Debug\net6.0\TTTServer.exe
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\bin\Debug\net6.0\TTTServer.deps.json
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\bin\Debug\net6.0\TTTServer.runtimeconfig.json
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\bin\Debug\net6.0\TTTServer.dll
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\bin\Debug\net6.0\TTTServer.pdb
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.dll
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\obj\Debug\net6.0\refint\TTTServer.dll
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.pdb
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\TTTServer\TTTServer\obj\Debug\net6.0\ref\TTTServer.dll
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\bin\Debug\net6.0\TTTServer.exe
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\bin\Debug\net6.0\TTTServer.deps.json
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\bin\Debug\net6.0\TTTServer.runtimeconfig.json
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\bin\Debug\net6.0\TTTServer.dll
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\bin\Debug\net6.0\TTTServer.pdb
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.csproj.AssemblyReference.cache
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.AssemblyInfoInputs.cache
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.AssemblyInfo.cs
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.csproj.CoreCompileInputs.cache
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.dll
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\obj\Debug\net6.0\refint\TTTServer.dll
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.pdb
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.genruntimeconfig.cache
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\obj\Debug\net6.0\ref\TTTServer.dll
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\bin\Debug\net6.0\Open.Nat.dll
+D:\Рабочий стол 14.05\06.07\TTTServer\TTTServer\obj\Debug\net6.0\TTTServer.csproj.CopyComplete
